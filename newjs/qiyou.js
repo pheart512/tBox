@@ -105,7 +105,8 @@ async function homeContent() {
             { "type_id": 1, "type_name": "电影" },
             { "type_id": 2, "type_name": "电视剧" },
             { "type_id": 3, "type_name": "动漫" },
-            { "type_id": 4, "type_name": "综艺" }
+            { "type_id": 4, "type_name": "综艺" },
+            { "type_id": 6, "type_name": "测试" }
         ];
         backData.class = classData;
         //console.log(JSON.stringify(backData));
